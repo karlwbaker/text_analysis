@@ -13,7 +13,7 @@ Output: Amonger other possible elements of the output, :
  
 ##### Example
 Input: "Wherefore art thou?"  
-Output: Most likely an allusion to Juliet speaking in Act A, Scene S, Line L, of 'Romeo and Juliet,' a play by William Shakespeare first performed at the XXX playhouse in XXX, England in <date>. Juliet is <give context, explanation, etc.>.
+Output: Most likely an allusion to Juliet speaking in Act A, Scene S, Line L, of 'Romeo and Juliet,' a play by William Shakespeare first performed at the XXX playhouse in XXX, England in [date]. Juliet is [give context, explanation, etc.].
 
 ##### Example
 Input: "Jeremiah was a bullfrog I helped him a-drink his wine"  
