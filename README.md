@@ -19,3 +19,4 @@ Output: Most likely an allusion to Juliet speaking in Act A, Scene S, Line L, of
 Input: "Jeremiah was a bullfrog I helped him a-drink his wine"  
 Output: Besides the fact that these words are from the lyrics to 'Joy To The World,' a US Billboard number 1 single released by Three Dog Night in 1970 (and by others since), we all will need to wait to see what the "Where's That From?" tool finds as the etymological roots of these phrases.
 
+# Phase 0: Implement Machine Learning Pipeline and Models Presented in _Applied Text Analysis with Python_ (O'Reilly 2018: Bengfort, Bilbro, Ojeda)
