@@ -21,3 +21,9 @@ Output: Besides the fact that these words are from the lyrics to 'Joy To The Wor
 
 # Phase 0: Implement Machine Learning Pipeline and Models 
 ## As Presented in _Applied Text Analysis with Python_ (O'Reilly 2018: Bengfort, Bilbro, Ojeda)
+
+### Corpus:
+Ultimately, the set of all English language text ever written. 
+ - Subsets of this are accessible via searchable public domain projects (google books, guggenheim project), etc.
+ 
+Initially, one or more versions of the Bible from which a dictionary of 1- to n-length ngrams can be created. This will allow ML predictions as to whether input strings are quotes from the Bible or have connections to biblical themes.
