@@ -1,0 +1,14 @@
+Questions & Ideas
+
+Find all direct QUOTATIONS from the Bible. 
+ - Since we have the KJV, we will use that, but we suspect that Milton primarily read in other versions, a Latin version among them. So we don't expect to find many direct quotes.
+ - A quote will be defined as a 3-gram, 3 consecutive words.
+
+
+More interesting, and more difficult, is to identify all ALLUSIONS to biblical themes within the text. 
+ - Difficult because the poet uses synonyms and other words in place of the words in the KJV. For example, "chaos" and "abyss" (Paradise Lost, lines 10 and 21) in place of "the deep" and "the waters" (Gen 1:2). These terms are evocative of the biblical text but how to capture the connection via ML?
+ - Perhaps the dictionary of 1-grams could be expanded to include synonyms of each token.
+ - This would increase the size of the dict by ~ 8 times.
+ - Would also result in MANY more connections between text and corpus (maybe too many).
+ - Or instead of adding to dict, include these in the meta-data tags.
+
