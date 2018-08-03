@@ -1,0 +1,77 @@
+bible_translations
+
+KJV: King James Version, 1611, country=UK
+RV: Revised Version, 1885, parent=KJV, country=UK
+ASV: American-Standard-Version, 1901, is_public_domain = True, parent=RV, country=US, 
+AB: Amplified Bible, 1965, country=US, 
+RSV: Revised Standard Version, 1971, country=US, 
+TLB: The Living Bible, 1971, paraphrase, Kenneth N. Taylor, parent=ASV, country=US, 
+NASB: New American Standard Bible, 1995, country=US, 
+RV: Recovery Version, 1999, country=US, 
+WEB: World English Bible, 2000 is_public_domain=True, country=US, 
+
+
+
+
+<option value="KJ21" >KJ21</option>
+<option value="ASV" >ASV</option>
+<option value="AMP" >AMP</option>
+<option value="AMPC" >AMPC</option>
+<option value="BRG" >BRG</option>
+<option value="CSB" >CSB</option>
+<option value="CEB" >CEB</option>
+<option value="CJB" >CJB</option>
+<option value="CEV" >CEV</option>
+<option value="DARBY" >DARBY</option>
+<option value="DLNT" >DLNT</option>
+<option value="DRA" >DRA</option>
+<option value="ERV" >ERV</option>
+<option value="EHV" >EHV</option>
+<option value="ESV" >ESV</option>
+<option value="ESVUK" >ESVUK</option>
+<option value="EXB" >EXB</option>
+<option value="GNV" >GNV</option>
+<option value="GW" >GW</option>
+<option value="GNT" >GNT</option>
+<option value="HCSB" >HCSB</option>
+<option value="ICB" >ICB</option>
+<option value="ISV" >ISV</option>
+<option value="PHILLIPS" >PHILLIPS</option>
+<option value="JUB" >JUB</option>
+<option value="KJV" >KJV</option>
+<option value="AKJV" >AKJV</option>
+<option value="LEB" >LEB</option>
+<option value="TLB" >TLB</option>
+<option value="MSG" >MSG</option>
+<option value="MEV" >MEV</option>
+<option value="MOUNCE" >MOUNCE</option>
+<option value="NOG" >NOG</option>
+<option value="NABRE" >NABRE</option>
+<option value="NASB" >NASB</option>
+<option value="NCV" >NCV</option>
+<option value="NET" >NET</option>
+<option value="NIRV" >NIRV</option>
+<option value="NIV"  selected="selected" >NIV</option>
+<option value="NIVUK" >NIVUK</option>
+<option value="NKJV" >NKJV</option>
+<option value="NLV" >NLV</option>
+<option value="NLT" >NLT</option>
+<option value="NMB" >NMB</option>
+<option value="NRSV" >NRSV</option>
+<option value="NRSVA" >NRSVA</option>
+<option value="NRSVACE" >NRSVACE</option>
+<option value="NRSVCE" >NRSVCE</option>
+<option value="NTE" >NTE</option>
+<option value="OJB" >OJB</option>
+<option value="TPT" >TPT</option>
+<option value="RSV" >RSV</option>
+<option value="RSVCE" >RSVCE</option>
+<option value="TLV" >TLV</option>
+<option value="VOICE" >VOICE</option>
+<option value="WEB" >WEB</option>
+<option value="WE" >WE</option>
+<option value="WYC" >WYC</option>
+<option value="YLT" >YLT</option>
+
+
+

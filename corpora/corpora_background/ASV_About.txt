@@ -1,0 +1,24 @@
+ASV_About
+
+https://www.biblegateway.com/versions/American-Standard-Version-ASV-Bible/
+
+pub_date: 1901
+based_on: RV
+parent: RV
+children: RSV, AB, NASB RV, WEB, TLB
+is_public_domain = True
+
+Revised Standard Version, 1971, the Amplified Bible, 1965, the New American Standard Bible, 1995, and the Recovery Version, 1999. A fifth revision, known as the World English Bible, was published in 2000 and was placed in the public domain. The ASV was also the basis for Kenneth N. Taylor's Bible paraphrase, The Living Bible, 1971
+
+Version Information
+From Wikipedia: The American Standard Version (ASV) is rooted in the work that was done with the Revised Version (RV) (a late 19th-century British revision of the King James Version of 1611). In 1870, an invitation was extended to American religious leaders for scholars to work on the RV project. A year later, Protestant theologian Philip Schaff chose 30 scholars representing the denominations of Baptist, Congregationalist, Dutch Reformed, Friends, Methodist, Episcopal, Presbyterian, Protestant Episcopal, and Unitarian. These scholars began work in 1872.
+
+The RV New Testament was released In 1881; the Old Testament was published in 1885. The ASV was published in 1901 by Thomas Nelson & Sons. In 1928, the International Council of Religious Education (the body that later merged with the Federal Council of Churches to form the National Council of Churches) acquired the copyright from Nelson and renewed it the following year.
+
+The divine name of the Almighty (the Tetragrammaton) is consistently rendered Jehovah in the ASV Old Testament, rather than LORD as it appears in the King James Bible.
+
+The ASV was the basis of four revisions. They were the Revised Standard Version, 1971, the Amplified Bible, 1965, the New American Standard Bible, 1995, and the Recovery Version, 1999. A fifth revision, known as the World English Bible, was published in 2000 and was placed in the public domain. The ASV was also the basis for Kenneth N. Taylor's Bible paraphrase, The Living Bible, 1971.
+
+<INSERT from=https://github.com/openbibleinfo/American-Standard-Version-Bible>"The ASV Bible, published in 1901, was the first revision of the King James Version of 1611 to gain fairly widespread acceptance in the United States. It also served as the source text for the later RSV (followed by NRSV and ESV) and NASB translations."</INSERT>
+
+This Bible is in the public domain in the United States. We are making it available in the same format in which we acquired it as a public service.
