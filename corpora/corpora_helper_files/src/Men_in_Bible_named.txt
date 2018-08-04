@@ -1,3 +1,4 @@
+A
 Aaron
 Abagtha
 Abda
@@ -7,13 +8,11 @@ Abdiel
 Abdon
 Abednego
 Abel
-Abia
-Abiah
+Abia, Abiah
 Abialbon
 Abiasaph
 Abiathar
-Abida
-Abidah
+Abida, Abidah
 Abidan
 Abiel
 Abiezer
@@ -21,39 +20,31 @@ Abigibeon
 Abihail
 Abihu
 Abihud
-Abijah
-Abiah
-Abia
+Abijah, Abiah, Abia
 Abijam
 Abimael
 Abimelech
 Abinadab
 Abinoam
 Abiram
-Abishai
-Abshai
+Abishai, Abshai
 Abishalom
 Abishua
 Abishur
 Abitub
 Abiud
-Abner
-Abiner
-Abram
-Abraham
+Abner, Abiner
+Abram, Abraham
 Absalom
 Achaicus
-Achan
-Achar
-Achor
+Achan, Achar, Achor
 Achbor
 Achim
 Achish
 Adaiah
 Adalia
 Adam
-Adar
-Addar
+Adar, Addar
 Adbeel
 Addi
 Ader
@@ -68,10 +59,8 @@ Adnah
 Adoni-Bezek
 Adonijah
 Adonikam
-Adoniram
-Adoram
-Adoni-Zedek
-Adoni-Zedec
+Adoniram, Adoram
+Adoni-Zedek, Adoni-Zedec
 Adoram
 Adrammelech
 Adriel
@@ -84,8 +73,7 @@ Agur
 Ahab
 Aharah
 Aharhel
-Ahasai
-Ahzai
+Ahasai, Ahzai
 Ahasbai
 Ahasuerus
 Ahaz
@@ -119,8 +107,7 @@ Aholiab
 Ahumai
 Ahuzam
 Ahuzzath
-Aiah
-Ajah
+Aiah, Ajah
 Akan
 Akkub
 Alameth
@@ -157,8 +144,7 @@ Amok
 Amon
 Amos
 Amoz
-Ampliatus
-Amplias
+Ampliatus, Amplias
 Amram
 Amraphel
 Amzi
@@ -211,8 +197,7 @@ Armoni
 Arnan
 Arni
 Arod
-Arphaxad
-Arpachshad
+Arphaxad, Arpachshad
 Artaxerxes
 Artemas
 Arza
@@ -221,14 +206,11 @@ Asahel
 Asahiah
 Asaiah
 Asaph
-Asareel
-Asarel
-Asarelah
-Asharelah
+Asareel, Asarel
+Asarelah, Asharelah
 Ashbea
 Ashbel
-Ashchenaz
-Ashkenaz
+Ashchenaz, Ashkenaz
 Asher
 Ashpenaz
 Ashur
@@ -237,10 +219,8 @@ Asiel
 Asnah
 Asnapper
 Aspatha
-Asriel
-Ashriel
-Asshur
-Assur
+Asriel, Ashriel
+Asshur, Assur
 Asshurim
 Assir
 Asyncritus
@@ -252,14 +232,12 @@ Attai
 Augustus
 Azaliah
 Azaniah
-Azarael
-Azareel
+Azarael, Azareel
 Azariah
 Azaz
 Azaziah
 Azbuk
-Azel
-Azal
+Azel, Azal
 Azgad
 Aziel
 Aziza
@@ -267,14 +245,13 @@ Azmaveth
 Azor
 Azriel
 Azrikam
-Azur
-Azzur
+Azur, Azzur
 Azzan
+B
 Baal
 Baal-Hanan
 Baalis
-Baana
-Baanah
+Baana, Baanah
 Baanah
 Baaseiah
 Baasha
@@ -283,8 +260,7 @@ Bakbuk
 Bakbukiah
 Balaam
 Baladan
-Balak
-Balac
+Balak, Balac
 Bani
 Barabbas
 Barachel
@@ -294,17 +270,14 @@ Bar-Jesus
 Bar-Jona
 Barkos
 Barnabas
-Barsabas
-Barsabbas
+Barsabas, Barsabbas
 Bartholomew
 Bartimaeus
 Baruch
 Barzillai
 Bashan-Havoth-Jair
-Bavai
-Bavvai
-Bazlith
-Bazluth
+Bavai, Bavvai
+Bazlith, Bazluth
 Bealiah
 Bebai
 Becher
@@ -316,8 +289,7 @@ Beeliada
 Beera
 Beerah
 Beeri
-Bela
-Belah
+Bela, Belah
 Belshazzar
 Belteshazzar
 Benaiah
@@ -338,8 +310,7 @@ Beor
 Bera
 Berachah
 Beraiah
-Berechiah
-Berachiah
+Berechiah, Berachiah
 Bered
 Beri
 Beriah
@@ -357,8 +328,7 @@ Bezer
 Bichri
 Bidkar
 Bigtha
-Bigthan
-Bigthana
+Bigthan, Bigthana
 Bigvai
 Bildad
 Bilgah
@@ -374,8 +344,7 @@ Bishlam
 Biztha
 Blastus
 Boanerges
-Boaz
-Booz
+Boaz, Booz
 Bocheru
 Bohan
 Bukki
@@ -384,22 +353,20 @@ Bunah
 Bunni
 Buz
 Buzi
+C
 Caesar
 Caiaphas
 Cain
-Cainan
-Kenan
+Cainan, Kenan
 Caleb
-Canaan
-Chanaan
+Canaan, Chanaan
 Carcas
 Careah
 Carmi
 Carpus
 Carshena
 Cephas
-Chalcol
-Calcol
+Chalcol, Calcol
 Chedorlaomer
 Chelal
 Chelluh
@@ -419,12 +386,10 @@ Chuza
 Cis
 Claudius
 Clement
-Cleopas
-Clopas
+Cleopas, Clopas
 Cleophas
 Colhozeh
-Conaniah
-Cononiah
+Conaniah, Cononiah
 Core
 Cornelius
 Cosam
@@ -435,6 +400,7 @@ Cush
 Cushi
 Cyrenius
 Cyrus
+D
 Dalaiah
 Dalphon
 Dan
@@ -466,30 +432,27 @@ Dodavah
 Dodo
 Doeg
 Dumah
+E
 Ebal
 Ebed
 Ebed-Melech
 Eber
 Ebiasaph
 Eden
-Eder
-Edar
+Eder, Edar
 Edom
 Eglon
 Ehi
 Ehud
 Eker
 Eladah
-Elah
-Ela
+Elah, Ela
 Elam
-Elasah
-Eleasah
+Elasah, Eleasah
 Eldaah
 Eldad
 Elead
-Eleasah
-Elasah
+Eleasah, Elasah
 Eleazar
 Elhanan
 Eli
@@ -500,8 +463,7 @@ Eliah
 Eliahba
 Eliakim
 Eliam
-Elias
-Elijah
+Elias, Elijah
 Eliasaph
 Eliashib
 Eliathah
@@ -509,15 +471,13 @@ Elidad
 Eliel
 Elienai
 Eliezer
-Elihoenai
-Elioenai
+Elihoenai, Elioenai
 Elihoreph
 Elihu
 Elika
 Elimelech
 Eliphal
-Eliphalet
-Eliphelet
+Eliphalet, Eliphelet
 Eliphaz
 Elipheleh
 Eliseus
@@ -527,12 +487,10 @@ Elishama
 Elishaphat
 Elishua
 Eliud
-Elizaphan
-Elzaphan
+Elizaphan, Elzaphan
 Elizur
 Elkanah
-Elmodam
-Elmadan
+Elmodam, Elmadan
 Elnaam
 Elnathan
 Elon
@@ -545,10 +503,8 @@ Elzaphan
 Emmor
 Enan
 Eneas
-Enoch
-Henoch
-Enos
-Enosh
+Enoch, Henoch
+Enos, Enosh
 Epaenetus
 Epaphras
 Epaphroditus
@@ -570,8 +526,7 @@ Eshbaal
 Eshban
 Eshcol
 Eshek
-Eshtemoa
-Eshtemoh
+Eshtemoa, Eshtemoh
 Eshton
 Esli
 Esrom
@@ -588,14 +543,14 @@ Ezbai
 Ezbon
 Ezekias
 Ezekiel
-Ezer
-Ezar
-Ezra
-Ezrah
+Ezer, Ezar
+Ezra, Ezrah
 Ezri
+F
 Felix
 Festus
 Fortunatus
+G
 Gaal
 Gabbai
 Gad
@@ -623,8 +578,7 @@ Gemariah
 Genubath
 Gera
 Gershom
-Gesham
-Geshan
+Gesham, Geshan
 Geshem
 Gether
 Geuel
@@ -632,74 +586,57 @@ Gibbar
 Gibea
 Giddalti
 Giddel
-Gideon
-Gedeon
+Gideon, Gedeon
 Gideoni
 Gilalai
 Gilead
 Ginath
-Ginnetho
-Ginnethon
-Gispa
-Gishpa
+Ginnetho, Ginnethon
+Gispa, Gishpa
 Gog
 Goliath
 Gomer
 Guni
+H
 Haahashtari
-Habaiah
-Hobiah
+Habaiah, Hobiah
 Habakkuk
-Habazziniah
-Habaziniah
+Habazziniah, Habaziniah
 Hachaliah
 Hachmoni
 Hadad
-Hadadezer
-Hadarezer
+Hadadezer, Hadarezer
 Hadlai
 Hadoram
 Hagab
-Hagabah
-Hagaba
+Hagabah, Hagaba
 Haggai
 Haggeri
 Haggi
 Haggiah
 Hakkatan
-Hakkoz
-Koz
-Coz
+Hakkoz, Koz, Coz
 Hakupha
-Halohesh
-Hallohesh
+Halohesh, Hallohesh
 Ham
 Haman
-Hammath
-Hemath
+Hammath, Hemath
 Hammedatha
 Hammelech
-Hamor
-Emmor
-Hamuel
-Hammuel
+Hamor, Emmor
+Hamuel, Hammuel
 Hamul
-Hanameel
-Hanamel
+Hanameel, Hanamel
 Hanan
 Hananeel
 Hanani
 Hananiah
-Hanniel
-Haniel
-Hanoch
-Henoch
+Hanniel, Haniel
+Hanoch, Henoch
 Hanun
-Happizzez
-Aphses
+Happizzez, Aphses
 Haran
-Harbona
-Harbonah
+Harbona, Harbonah
 Hareph
 Harhaiah
 Harhas
@@ -715,22 +652,16 @@ Hasadiah
 Hasenuah
 Hashabiah
 Hashabnah
-Hashabniah
-Hashabiah
-Hashbadana
-Hashbaddna
+Hashabniah, Hashabiah
+Hashbadana, Hashbaddna
 Hashem
-Hashub
-Hasshub
+Hashub, Hasshub
 Hashubah
 Hashum
 Hasrah
-Hassenaah
-Senaah
-Hasupha
-Hashupha
-Hatach
-Hathach
+Hassenaah, Senaah
+Hasupha, Hashupha
+Hatach, Hathach
 Hathath
 Hatipha
 Hatita
@@ -742,16 +673,11 @@ Hazaiah
 Hazarmaveth
 Haziel
 Hazo
-Heber
-Eber
+Heber, Eber
 Hebron
-Hege
-Hegai
-Heldai
-Helem
-Heled
-Heleb
-Heled
+Hege, Hegai
+Heldai, Helem, Heled
+Heleb, Heled
 Helek
 Helem
 Helez
@@ -776,10 +702,8 @@ Hezeki
 Hezekiah
 Hezion
 Hezir
-Hezrai
-Hezro
-Hezron
-Esron
+Hezrai, Hezro
+Hezron, Esron
 Hiddai
 Hiel
 Hilkiah
@@ -787,31 +711,24 @@ Hillel
 Hinnom
 Hirah
 Hiram
-Hizkiah
-Hezekiah
+Hizkiah, Hezekiah
 Hizkijah
 Hobab
 Hod
 Hodaiah
 Hodaviah
 Hodevah
-Hodiah
-Hodijah
+Hodiah, Hodijah
 Hoham
-Homam
-Hemam
+Homam, Hemam
 Hophni
 Horam
 Hori
 Hosah
-Hosea
-Oshea
-Osee
-Hoshea
+Hosea, Oshea, Osee, Hoshea
 Hoshaiah
 Hoshama
-Hotham
-Hothan
+Hotham, Hothan
 Hothir
 Hozai
 Hul
@@ -827,12 +744,12 @@ Husham
 Hushim
 Huz
 Hymenaeus
+I
 Ibhar
 Ibneiah
 Ibnijah
 Ibri
-Ibsam
-Jibsam
+Ibsam, Jibsam
 Ibzan
 Ichabod
 Idbash
@@ -842,8 +759,7 @@ Igdaliah
 Igeal
 Ikkesh
 Ilai
-Imla
-Imlah
+Imla, Imlah
 Immer
 Imna
 Imnah
@@ -859,35 +775,24 @@ Irijah
 Irnahash
 Iru
 Isaac
-Isaiah
-Esaias
+Isaiah, Esaias
 Iscariot
 Ishbah
 Ishbak
 Ishbi-Benob
 Ishbosheth
 Ishi
-Ishiah
-Isshiah
-Ishijah
+Ishiah, Isshiah, Ishijah
 Ishma
 Ishmael
-Ishmaiah
-Ismaiah
+Ishmaiah, Ismaiah
 Ishmerai
 Ishod
-Ishpah
-Ispah
+Ishpah, Ispah
 Ishpan
-Ishuah
-Isuah
-Ishui
-Ishuai
-Isui
-Jesui
-Ishvi
-Isliah
-Jezliah
+Ishuah, Isuah
+Ishui, Ishuai, Isui, Jesui, Ishvi
+Isliah, Jezliah
 Ismachiah
 Ismaiah
 Ispah
@@ -901,29 +806,20 @@ Ithra
 Ithran
 Ithream
 Ittai
-Izhar
-Izehar
+Izhar, Izehar
 Izrahiah
 Izri
-Izziah
-Jeziah
-Jaakan
-Jakan
-Akan
+Izziah, Jeziah
+J
+Jaakan, Jakan, Akan
 Jaakobah
-Jaala
-Jaalah
+Jaala, Jaalah
 Jaalam
-Jaanai
-Janai
+Jaanai, Janai
 Jaare-Oregim
-Jaareshiah
-Jaresiah
-Jaasau
-Jaasu
-Jassai
-Jaasiel
-Jasiel
+Jaareshiah, Jaresiah
+Jaasau, Jaasu, Jassai
+Jaasiel, Jasiel
 Jaazaniah
 Jaaziah
 Jaaziel
@@ -931,8 +827,7 @@ Jabal
 Jabesh
 Jabez
 Jabin
-Jachan
-Jacan
+Jachan, Jacan
 Jachin
 Jacob
 Jada
@@ -947,32 +842,27 @@ Jahdiel
 Jahdo
 Jahleel
 Jahmai
-Jahzeel
-Jahziel
-Jahzeiah
-Jahaziah
+Jahzeel, Jahziel
+Jahzeiah, Jahaziah
 Jahzerah
 Jair
 Jairus
 Jakeh
 Jakim
-Jalam
-Jaalam
+Jalam, Jaalam
 Jalon
 Jambres
 James
 Jamin
 Jamlech
-Janna
-Jannai
+Janna, Jannai
 Jannes
 Japheth
 Japhia
 Japhlet
 Jarah
 Jareb
-Jared
-Jered
+Jared, Jered
 Jaresiah
 Jarha
 Jarib
@@ -988,73 +878,54 @@ Jaziz
 Jeaterai
 Jeberechiah
 Jecamiah
-Jechonias
-Jechoniah
+Jechonias, Jechoniah
 Jeconiah
 Jedaiah
 Jediael
 Jedidiah
 Jeduthun
 Jeezer
-Jehaleleel
-Jehalelel
+Jehaleleel, Jehalelel
 Jehdeiah
 Jehezekel
 Jehiah
 Jehiel
 Jehieli
 Jehizkiah
-Jehoadah
-Jehoaddah
-Jehoahaz
-Joahaz
-Jehoash
-Joahaz
-Joash
-Jehohanan
-Johanan
+Jehoadah, Jehoaddah
+Jehoahaz, Joahaz
+Jehoash, Joahaz, Joash
+Jehohanan, Johanan
 Jehoiachin
 Jehoiada
 Jehoiakim
 Jehoiarib
-Jehonadab
-Jonadab
+Jehonadab, Jonadab
 Jehonathan
-Jehoram
-Joram
+Jehoram, Joram
 Jehoshaphat
 Jehoshua
 Jehozabad
-Jehozadak
-Jozadak
+Jehozadak, Jozadak
 Jehu
 Jehubbah
-Jehucal
-Jucal
+Jehucal, Jucal
 Jehudi
 Jehush
-Jeiel
-Jehiel
-Jeuel
+Jeiel, Jehiel, Jeuel
 Jekameam
-Jekamiah
-Jecamiah
+Jekamiah, Jecamiah
 Jekuthiel
 Jemuel
-Jephthah
-Jephthae
+Jephthah, Jephthae
 Jephunneh
 Jerah
 Jerahmeel
 Jered
 Jeremai
-Jeremiah
-Jeremy
-Jeremias
-Jeremoth
-Jerimoth
-Jeriah
-Jerijah
+Jeremiah, Jeremy, Jeremias
+Jeremoth, Jerimoth
+Jeriah, Jerijah
 Jeribai
 Jeriel
 Jerimoth
@@ -1062,32 +933,26 @@ Jeroboam
 Jeroham
 Jerubbaal
 Jerubbesheth
-Jesaiah
-Jeshaiah
+Jesaiah, Jeshaiah
 Jesharelah
 Jeshebeab
 Jesher
 Jeshishai
 Jeshohaiah
-Jeshua
-Jeshuah
+Jeshua, Jeshuah
 Jesiah
 Jesimiel
 Jesse
 Jesui
 Jesus
-Jether
-Jethro
+Jether, Jethro
 Jetheth
 Jethro
 Jetur
-Jeuel
-Jeiel
-Jeush
-Jehush
+Jeuel, Jeiel
+Jeush, Jehush
 Jeuz
-Jezaniah
-Jaazeniah
+Jezaniah, Jaazeniah
 Jezer
 Jeziah
 Jeziel
@@ -1097,15 +962,12 @@ Jezrahiah
 Jezreel
 Jibsam
 Jidlaph
-Jimnah
-Jimna
+Jimnah, Jimna
 Joab
 Joah
 Joahaz
-Joanna
-Joanan
-Joash
-Jehoash
+Joanna, Joanan
+Joash, Jehoash
 Joatham
 Job
 Jobab
@@ -1120,19 +982,14 @@ Johanan
 John
 Joiada
 Joiakim
-Joiarib
-Jehoiarib
+Joiarib, Jehoiarib
 Jokim
 Jokshan
 Joktan
 Jonadab
-Jonah
-Jona
-Jonas
-Jonan
-Jonam
-Jonas
-Jona
+Jonah, Jona, Jonas
+Jonan, Jonam
+Jonas, Jona
 Jonathan
 Jorah
 Joram
@@ -1148,42 +1005,28 @@ Joshah
 Joshaphat
 Joshaviah
 Joshbekashah
-Josheb-Basshebeth
-Josheb-Bassebet
-Joshua
-Jehoshua
-Jehoshuah
-Jeshua
-Jesus
+Josheb-Basshebeth, Josheb-Bassebet
+Joshua, Jehoshua, Jehoshuah, Jeshua, Jesus
 Josiah
 Josibiah
 Josiphiah
-Jotham
-Joatham
-Jozabad
-Josabad
-Jozachar
-Jozacar
+Jotham, Joatham
+Jozabad, Josabad
+Jozachar, Jozacar
 Jozadak
 Jubal
-Jucal
-Jehucal
-Judah
-Juda
-Joda
-Judas
-Juda
-Jude
+Jucal, Jehucal
+Judah, Juda, Joda
+Judas, Juda, Jude
 Jude
 Julius
-Junia
-Junias
+Junia, Junias
 Jushab-Hesed
 Justus
+K
 Kadmiel
 Kallai
-Kareah
-Careah
+Kareah, Careah
 Kedar
 Kedemah
 Keilah
@@ -1191,22 +1034,19 @@ Kelaiah
 Kelita
 Kemuel
 Kenan
-Kenaz
-Kenez
+Kenaz, Kenez
 Keros
 Kirjath-Jearim
-Kish
-Cis
+Kish, Cis
 Kishi
 Kittim
 Kohath
 Kolaiah
-Korah
-Kore
-Core
+Korah, Kore, Core
 Kore
 Koz
 Kushaiah
+L
 Laadah
 Laadan
 Laban
@@ -1215,11 +1055,9 @@ Lahad
 Lahmi
 Laish
 Lamech
-Lappidoth
-Lapidoth
+Lappidoth, Lapidoth
 Lazarus
-Lebanah
-Lebana
+Lebanah, Lebana
 Lebbaeus
 Lecah
 Lehabim
@@ -1237,24 +1075,21 @@ Lucifer
 Lucius
 Lud
 Ludim
-Luke
-Lucas
+Luke, Lucas
 Lysanias
 Lysias
-Maacah
-Maachah
+M
+Maacah, Maachah
 Maadai
 Maadiah
 Maai
-Maasai
-Maasiai
+Maasai, Maasiai
 Maaseiah
 Maasiai
 Maath
 Maaz
 Maaziah
-Machbannai
-Machbanai
+Machbannai, Machbanai
 Machi
 Machir
 Machnadebai
@@ -1263,33 +1098,24 @@ Madmannah
 Magdiel
 Magog
 Magor-Missabib
-Magpiash
-Magbish
+Magpiash, Magbish
 Magus
-Mahalaleel
-Mahalalel
-Maleleel
+Mahalaleel, Mahalalel, Maleleel
 Maharai
 Mahath
 Mahazioth
 Maher-Shalal-Hashbaz
-Mahlah
-Mahalah
-Mahli
-Mahali
+Mahlah, Mahalah
+Mahli, Mahali
 Mahlon
 Mahol
-Mahseiah
-Maaseiah
+Mahseiah, Maaseiah
 Malachi
-Malcham
-Malcam
-Malchiah
-Malchijah
+Malcham, Malcam
+Malchiah, Malchijah
 Malchiel
 Malchiram
-Malchi-Shua
-Melchi-Shua
+Malchi-Shua, Melchi-Shua
 Malchus
 Maleleel
 mallothi
@@ -1297,16 +1123,13 @@ Malluch
 Mamre
 Manaen
 Manahath
-Manasseh
-Manasses
-Manasses
-Manasseh
+Manasseh, Manasses
+Manasses, Manasseh
 Manoah
 Maoch
 Maon
 Mareshah
-Mark
-Marcus
+Mark, Marcus
 Marsena
 Mash
 Massa
@@ -1314,11 +1137,9 @@ Mathusala
 Matri
 Mattan
 Mattaniah
-Mattatah
-Mattathah
+Mattatah, Mattathah
 Mattatha
-Mattathias
-Mattithiah
+Mattathias, Mattithiah
 Mattenai
 Matthan
 Matthew
@@ -1327,28 +1148,23 @@ Mattithiah
 Mebunnai
 Medad
 Medan
-Mehetabel
-Mehetabeel
+Mehetabel, Mehetabeel
 Mehida
 Mehir
 Mehujael
 Mehuman
-Mehunim
-Meunim
+Mehunim, Meunim
 Melatiah
 Melchi
-Melchisedec
-Melchizedek
-Melchishua
-Malchishua
+Melchisedec, Melchizedek
+Melchishua, Malchishua
 Melea
 Melech
 Melicu
 Melzar
 Memucan
 Menahem
-Menan
-Menna
+Menan, Menna
 Meonothai
 Mephibosheth
 Meraiah
@@ -1361,64 +1177,50 @@ Merib-Baal
 Merodach-Baladan
 Mesha
 Meshach
-Meshech
-Mesech
+Meshech, Mesech
 Meshelemiah
-Meshezabeel
-Meshezabel
-Meshillemith
-Meshillemoth
+Meshezabeel, Meshezabel
+Meshillemith, Meshillemoth
 Meshobab
 Meshullam
-Methusael
-Methushael
-Methuselah
-Mathusala
+Methusael, Methushael
+Methuselah, Mathusala
 Mezahab
 Miamin
 Mibhar
 Mibsam
 Mibzar
-Micah
-Michah
-Mica
-Micha
-Micaiah
-Michaiah
+Micah, Michah, Mica, Micha
+Micaiah, Michaiah
 Micha
 Michael
 Michri
-Midian
-Madian
-Mijamin
-Miamin
+Midian, Madian
+Mijamin, Miamin
 Mikloth
 Mikneiah
 Milalai
 Miniamin
-Mirma
-Mirmah
+Mirma, Mirmah
 Mishael
 Misham
 Mishma
 Mishmannah
-Mispereth
-Mispar
-Mizpar
+Mispereth, Mispar, Mizpar
 Mithredath
 Mizpar
 Mizraim
 Mizzah
 Mnason
 Moab
-Moadiah
-Maadiah
+Moadiah, Maadiah
 Molid
 Mordecai
 Moses
 Moza
 Muppim
 Mushi
+N
 Naam
 Naaman
 Naarai
@@ -1429,24 +1231,18 @@ Naboth
 Nachon
 Nachor
 Nadab
-Nagge
-Naggai
+Nagge, Naggai
 Naham
 Nahamani
-Naharai
-Nahari
+Naharai, Nahari
 Nahash
 Nahath
 Nahbi
-Nahor
-Nachor
-Nahshon
-Naasson
+Nahor, Nachor
+Nahshon, Naasson
 Nahum
-Naphish
-Nephish
-Naphtali
-Nephthalim
+Naphish, Nephish
+Naphtali, Nephthalim
 Narcissus
 Nathan
 Nathanael
@@ -1454,18 +1250,13 @@ Nathan-Melech
 Naum
 Neariah
 Nebai
-Nebajoth
-Nebaioth
+Nebajoth, Nebaioth
 Nebat
 Nebo
-Nebuchadnezzar
-Nebuchadrezzar
-Rezzar
-Nebushasban
-Nebushazban
+Nebuchadnezzar, Nebuchadrezzar, Rezzar
+Nebushasban, Nebushazban
 Nebuzar-Adan
-Necho
-Neco
+Necho, Neco
 Nedabiah
 Nehemiah
 Nehum
@@ -1477,27 +1268,24 @@ Nereus
 Nergal-Sharezer
 Neri
 Neriah
-Nethaneel
-Nethanel
+Nethaneel, Nethanel
 Nethaniah
 Neziah
 Nicanor
 Nicodemus
-Nicolas
-Nicolaus
+Nicolas, Nicolaus
 Niger
 Nimrod
 Nimshi
 Noadiah
-Noah
-Noe
+Noah, Noe
 Nobah
-Nobai
-Nebai
+Nobai, Nebai
 Nogah
 Nohan
 Nun
 Nymphas
+O
 Obadiah
 Obal
 Obed
@@ -1508,8 +1296,7 @@ Oded
 Og
 Ohad
 Ohel
-Oholiab
-Aholiab
+Oholiab, Aholiab
 Olympas
 Omar
 Omri
@@ -1530,29 +1317,24 @@ Othniel
 Ozem
 Ozias
 Ozni
+P
 Paarai
 Padon
 Pagiel
 Pahath-Moab
 Palal
-Pallu
-Phallu
-Palti
-Phalti
-Paltiel
-Phaltiel
+Pallu, Phallu
+Palti, Phalti
+Paltiel, Phaltiel
 Parmashta
 Parmenas
 Parnach
-Parosh
-Pharosh
+Parosh, Pharosh
 Parshandatha
 Paruah
 Pasach
-Paseah
-Phaseah
-Pashur
-Pashhur
+Paseah, Phaseah
+Pashur, Pashhur
 Pathrusim
 Patrobas
 Paul
@@ -1568,30 +1350,24 @@ Pelatiah
 Peleg
 Pelet
 Peleth
-Penuel
-Peniel
+Penuel, Peniel
 Peresh
-Perez
-Phares
-Pharez
+Perez, Phares, Pharez
 Perida
 Persis
 Peter
 Pethahiah
 Pethuel
-Peulthai
-Peulethai
+Peulthai, Peulethai
 Phalec
 Phallu
 Phalti
 Phanuel
 Pharaoh
 Pharaoh-Hophra
-Pharaoh-Necho
-Nechoh
+Pharaoh-Necho or Nechoh
 Phares
-Pharez
-Perez
+Pharez, Perez
 Phichol
 Philemon
 Philetus
@@ -1600,17 +1376,12 @@ Philologus
 Phinehas
 Phlegon
 Phurah
-Phut
-Put
-Phuvah
-Pua
-Puah
-Phygellus
-Phygelus
+Phut, Put
+Phuvah, Pua, Puah
+Phygellus, Phygelus
 Pilate
 Pildash
-Pileha
-Pilha
+Pileha, Pilha
 Piltai
 Pinon
 Piram
@@ -1620,19 +1391,18 @@ Pochereth
 Poratha
 Porcius
 Potiphar
-Poti-Pherah
-Poti-Phera
+Poti-Pherah, Poti-Phera
 Prochorus
 Publius
 Pudens
 Pul
 Putiel
 Pyrrhus
+Q
 Quartus
-Raamah
-Raama
-Raamiah
-Reelaiah
+R
+Raamah, Raama
+Raamiah, Reelaiah
 Rabmag
 Rabsaris
 Rabshakeh
@@ -1640,16 +1410,13 @@ Raddai
 Ragau
 Raguel
 Raham
-Rakem
-Rekem
+Rakem, Rekem
 Ram
 Ramiah
 Ramoth
-Rapha
-Raphah
+Rapha, Raphah
 Raphu
-Reaiah
-Reaia
+Reaiah, Reaia
 Reba
 Rechab
 Reelaiah
@@ -1657,8 +1424,7 @@ Regem
 Regem-Melech
 Rehabiah
 Rehob
-Rehoboam
-Roboam
+Rehoboam, Roboam
 Rehoboth
 Rehum
 Rei
@@ -1668,8 +1434,7 @@ Rephael
 Rephah
 Rephaiah
 Resheph
-Reu
-Ragau
+Reu, Ragau
 Reuben
 Reuel
 Rezia
@@ -1684,21 +1449,16 @@ Rohgah
 Romamti-Ezer
 Rosh
 Rufus
-Sabta
-Sabtah
-Sabtecha
-Sabtechah
+S
+Sabta, Sabtah
+Sabtecha, Sabtechah
 Sacar
 Sadoc
-Sala
-Salah
-Salathiel
-Shealtiel
+Sala, Salah
+Salathiel, Shealtiel
 Sallai
 Salma
-Salmon
-Salma
-Salmah
+Salmon, Salma, Salmah
 Salu
 Samgar-Nebo
 Samlah
@@ -1710,8 +1470,7 @@ Saraph
 Sargon
 Sarsechim
 Saruch
-Saul
-Shaul
+Saul, Shaul
 Sceva
 Seba
 Secundus
@@ -1727,19 +1486,16 @@ Seraiah
 Sered
 Sergius Paulus
 Serug
-Seth
-Sheth
+Seth, Sheth
 Sethur
 Shaaph
 Shaashgaz
 Shabbethai
 Shachia
 Shadrach
-Shage
-Shagee
+Shage, Shagee
 Shaharaim
-Shallum
-Shallun
+Shallum, Shallun
 Shalmai
 Shalman
 Shalmaneser
@@ -1753,21 +1509,18 @@ Shamma
 Shammah
 Shammai
 Shammoth
-Shammua
-Shammuah
+Shammua, Shammuah
 Shamsherai
 Shapham
 Shaphan
 Shaphat
 Sharai
 Sharar
-Sharezer
-Sherezer
+Sharezer, Sherezer
 Shashai
 Shashak
 Shaul
-Shavsha
-Shisha
+Shavsha, Shisha
 Sheal
 Shealtiel
 Sheariah
@@ -1775,44 +1528,33 @@ Shear-Jashub
 Sheba
 Shebaniah
 Sheber
-Shebna
-Shebnah
+Shebna, Shebnah
 Shebuel
 Shechaniah
-Shechem
-Sichem
-Sychem
-Sychar
+Shechem, Sichem, Sychem, Sychar
 Shedeur
 Shehariah
-Shelah
-Salah
-Sala
+Shelah, Salah, Sala
 Shelemiah
 Sheleph
 Shelesh
 Shelomi
 Shelomith
 Shelumiel
-Shem
-Sem
+Shem, Sem
 Shema
 Shemaah
 Shemaiah
-Shemariah
-Shamariah
+Shemariah, Shamariah
 Shemeber
 Shemer
-Shemidah
-Shemida
+Shemidah, Shemida
 Shemiramoth
 Shemuel
 Shenazar
 Shephatiah
-Shepho
-Shephi
-Shephupham
-Shephuphan
+Shepho, Shephi
+Shephupham, Shephuphan
 Sherebiah
 Sheresh
 Sheshai
@@ -1821,26 +1563,20 @@ Sheshbazzar
 Sheth
 Shethar
 Shethar-Boznai
-Sheva
-Shavsha
+Sheva, Shavsha
 Shilhi
 Shillem
 Shiloni
 Shilshah
-Shimeah
-Shimea
+Shimeah, Shimea
 Shimeam
-Shimei
-Shimi
-Shimhi
+Shimei, Shimi, Shimhi
 Shimeon
 Shimma
 Shimon
 Shimrath
-Shimri
-Simri
-Shimron
-Shimrom
+Shimri, Simri
+Shimron, Shimrom
 Shimshai
 Shinab
 Shiphi
@@ -1864,34 +1600,23 @@ Shual
 Shubael
 Shuham
 Shuni
-Shupham
-Shuppim
+Shupham, Shuppim
 Shuthelah
-Siaha
-Sia
-Sibbechai
-Sibbecai
-Sidon
-Zidon
+Siaha, Sia
+Sibbechai, Sibbecai
+Sidon, Zidon
 Sihon
-Silas
-Silvanus
-Simeon
-Symeon
+Silas, Silvanus
+Simeon, Symeon
 Simon
-Sippai
-Saph
-Sisamai
-Sismai
+Sippai, Saph
+Sisamai, Sismai
 Sisera
 So
-Socho
-Shoco
-Shocho
+Socho, Shoco, Shocho
 Sodi
 Solomon
-Sopater
-Sosipater
+Sopater, Sosipater
 Sophereth
 Sosthenes
 Sotai
@@ -1900,62 +1625,50 @@ Stephanas
 Stephen
 Suah
 Susi
+T
 Tabbaoth
 Tabeal
 Tabeel
-Tabrimon
-Tabrimmon
+Tabrimon, Tabrimmon
 Tahan
 Tahath
-Tahrea
-Tarea
+Tahrea, Tarea
 Talmai
 Talmon
 Tanhumeth
 Tappuah
-Tarshish
-Tharshish
+Tarshish, Tharshish
 Tartan
 Tatnai
 Tebah
 Tebaliah
 Tehinnah
-Tekoh
-Tekoa
+Tekoh, Tekoa
 Telah
 Telem
 Tema
-Teman
-Temani
+Teman, Temani
 Temeni
-Terah
-Tarah
-Thara
+Terah, Tarah, Thara
 Teresh
 Tertius
 Tertullus
 Thaddaeus
 Thahash
-Thamah
-Tamah
-Temah
+Thamah, Tamah, Temah
 Theophilus
 Theudas
 Thomas
 Tiberius
 Tibni
 Tidal
-Tiglath-Pileser
-Tilgath-Pilneser
-Tikvah
-Tikvath
+Tiglath-Pileser, Tilgath-Pilneser
+Tikvah, Tikvath
 Tilon
 Timaeus
-Timna
-Timnah
+Timna, Timnah
 Timon
-Timotheus
-Timothy
+Timotheus, Timothy
 Tiras
 Tirhakah
 Tirhanah
@@ -1964,49 +1677,43 @@ Tirshatha
 Titus
 Toah
 Tob-Adonijah
-Tobiah
-Tobijah
+Tobiah, Tobijah
 Togarmah
 Tohu
-Toi
-Tou
+Toi, Tou
 Tola
 Trophimus
 Tubal
 Tubal-Cain
 Tychicus
 Tyrannus
+U
 Ucal
 Uel
 Ulam
 Ulla
-Unni
-Unno
+Unni, Unno
 Ur
-Urbane
-Urbanus
+Urbane, Urbanus
 Uri
-Uriah
-Urijah
-Urias
+Uriah, Urijah, Urias
 Uriel
 Uthai
 Uz
 Uzai
 Uzal
-Uzza
-Uzzah
+Uzza, Uzzah
 Uzzi
 Uzzia
 Uzziah
 Uzziel
-Vajezatha
-Vaizatha
+V
+Vajezatha, Vaizatha
 Vaniah
 Vashni
 Vophsi
-Zaavan
-Zavan
+Z
+Zaavan, Zavan
 Zabad
 Zabbai
 Zabbud
@@ -2015,57 +1722,43 @@ Zabdiel
 Zabud
 Zaccai
 Zacchaeus
-Zaccur
-Zacchur
+Zaccur, Zacchur
 Zachariah
 Zacharias
 Zacher
 Zadok
 Zaham
 Zalaph
-zalmon
-Salmon
+zalmon, Salmon
 Zalmunna
 Zanoah
 Zaphnath-Paaneah
-Zara
-Zarah
-Zerah
-Zattu
-Zatthu
+Zara, Zarah, Zerah
+Zattu, Zatthu
 Zaza
 Zebadiah
 Zebah
 Zebedee
 Zebina
 Zebul
-Zebulun
-Zabulon
-Zechariah
-Zecher
+Zebulun, Zabulon
+Zechariah, Zecher
 Zedekiah
 Zeeb
 Zelek
 Zelophehad
 Zelotes
-Zemira
-Zemirah
+Zemira, Zemirah
 Zenas
 Zephaniah
-Zepho
-Zephi
-Zephon
-Zaphon
-Zerah
-Zarah
-Zara
+Zepho, Zephi
+Zephon, Zaphon
+Zerah, Zarah, Zara
 Zerahiah
 Zereth
-Zeri
-Izri
+Zeri, Izri
 Zeror
-Zerubbabel
-Zorobabel
+Zerubbabel, Zorobabel
 Zetham
 Zethan
 Zethar
@@ -2075,11 +1768,9 @@ Zibeon
 Zibia
 Zichri
 Zidkijah
-Zidon
-Sidon
+Zidon, Sidon
 Ziha
-Zilthai
-Zillethai
+Zilthai, Zillethai
 Zimmah
 Zimran
 Zimri
@@ -2089,8 +1780,7 @@ Ziphah
 Ziphion
 Zippor
 Zithri
-Ziza
-Zizah
+Ziza, Zizah
 Zohar
 Zoheth
 Zophah

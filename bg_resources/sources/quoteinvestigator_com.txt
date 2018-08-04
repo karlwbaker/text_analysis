@@ -1,0 +1,9 @@
+quoteinvestigator.com
+
+This site investigates the true sources of quotes. Their algorithms and models might help in this project.
+
+Example:
+
+The quote attributed to Bill Gates, "I will always choose a lazy person to do a difficult job because a lazy person will find an easy way to do it":
+
+https://quoteinvestigator.com/2014/02/26/lazy-job/

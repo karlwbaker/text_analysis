@@ -8,27 +8,52 @@ FEMALE = 'female'
 UNKNOWN = 'unknown'
 BOTH = 'both'
 
-MALE_WORDS = set([
-    'guy','spokesman','chairman',"men's",'men','him',"he's",'his',
-    'boy','boyfriend','boyfriends','boys','brother','brothers','dad',
-    'dads','dude','father','fathers','fiance','gentleman','gentlemen',
-    'god','grandfather','grandpa','grandson','groom','he','himself',
-    'husband','husbands','king','male','man','mr','nephew','nephews',
-    'priest','prince','son','sons','uncle','uncles','waiter','widower',
-    'widowers'
-])
+MALE_WORDS = []
+#    "men's",'men','him',"he's",'his',
+#    'boy','boys','brother','brothers','father','fathers','fiance',
+#    'god','grandfather','grandson','groom','he','himself',
+#    'husband','husbands','king','male','man','nephew','nephews',
+#    'priest','prince','son','sons','uncle','uncles','widower',
+#    'widowers',
+#    'soldier','general','commander'
+#]
 
-FEMALE_WORDS = set([
-    'heroine','spokeswoman','chairwoman',"women's",'actress','women',
-    "she's",'her','aunt','aunts','bride','daughter','daughters','female',
-    'fiancee','girl','girlfriend','girlfriends','girls','goddess',
-    'granddaughter','grandma','grandmother','herself','ladies','lady',
-    'lady','mom','moms','mother','mothers','mrs','ms','niece','nieces',
-    'priestess','princess','queens','she','sister','sisters','waitress',
-    'widow','widows','wife','wives','woman'
-])
+print(len(MALE_WORDS))
 
+PATH = r'C:\Users\karls\Anaconda2\code_projects\text_analysis\corpora\corpora_helper_files'
+filename = r'\Men_in_Bible_named.txt'
 
+#with open(PATH+filename) as f:
+#    MALE_NAMES = f.readlines() 
+
+#MALE_WORDS_NAMES = set(MALE_WORDS + list(MALE_NAMES))
+      
+print(len(MALE_WORDS))
+
+FEMALE_WORDS = []
+#    "women's",'women',
+#    "she's",'her','aunt','aunts','bride','daughter','daughters','female',
+#    'fiancee','girl','girls','goddess',
+#    'granddaughter','grandmother','herself','ladies','lady',
+#    'mother','mothers','niece','nieces',
+#    'priestess','princess','queen','she','sister','sisters',
+#    'widow','widows','wife','wives','woman',
+#    'prostitute','betrothed','concubine'
+#]
+      
+print(len(FEMALE_WORDS))
+
+filename = r'\Women_in_Bible_named.txt'
+
+#with open(PATH+filename) as f:
+#    FEMALE_NAMES = f.readlines() 
+
+#FEMALE_WORDS_NAMES = set(FEMALE_WORDS + list(FEMALE_NAMES))
+
+print(len(FEMALE_WORDS))
+
+      
+      
 def genderize(words):
 
     mwlen = len(MALE_WORDS.intersection(words))
